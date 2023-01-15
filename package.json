@@ -47,8 +47,16 @@
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
     "@types/styled-components": "^5.1.26",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^5.5.0",
+    "prettier": "^2.8.3",
     "stylelint-config-styled-components": "^0.1.1",
-    "stylelint-processor-styled-components": "^1.10.0"
+    "stylelint-processor-styled-components": "^1.10.0",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
   },
   "resolutions": {
     "styled-components": "5.3.5"
